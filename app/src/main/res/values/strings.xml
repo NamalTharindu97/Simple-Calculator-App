@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Tutorial3</string>
+    <string name="num_1">Number 1</string>
+    <string name="num_2">Number 2</string>
+    <string name="ed_num1" />
+    <string name="ed_num2" />
+    <string name="btn1">OK</string>
+    <string name="result" />
+    <string name="btn_add">+</string>
+    <string name="btn_sub">-</string>
+    <string name="btn_multi" />
+    <string name="btn_mul">*</string>
+    <string name="btn_div">/</string>
+    <string name="btn_addd">+</string>
+    <string name="et_toast">Opening Calculator</string>
+</resources>
